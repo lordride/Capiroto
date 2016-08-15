@@ -1,5 +1,5 @@
 ﻿.﻿body,html{
-    background-image:url("img/saphiron.jpg");
+    background-color:black;
     width:auto;
     height:auto;
 
@@ -11,9 +11,9 @@
     text-align:center;
 }
 img{
-    width: 800px;
-    height: 800px;
+    width: 500px;
+    height: 500px;
     position: absolute;
-    top:10%;
-    left:30%;
+    top:30%;
+    left:40%;
 }
