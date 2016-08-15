@@ -1,11 +1,19 @@
 ﻿.﻿body,html{
-    background-color: #000000;
+    background-image:url("img/saphiron.jpg");
     width:auto;
     height:auto;
+
 }
 .content_top{
     width:100%;
     height:20%;
-    background-color: #ff3d4f;
+    background-color: #8278ff;
     text-align:center;
+}
+img{
+    width: 800px;
+    height: 800px;
+    position: absolute;
+    top:10%;
+    left:30%;
 }
